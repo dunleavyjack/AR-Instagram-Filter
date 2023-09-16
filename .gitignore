@@ -1,0 +1,11 @@
+# Ignore node modules.
+node_modules
+
+# Ignore SparkAR's project file (it's huge).
+*.arproj
+
+# Ignore the dist directory and its contents.
+/dist/
+
+# Ignore the bundle.js file.
+/script.js

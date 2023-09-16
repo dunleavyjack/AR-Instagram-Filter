@@ -1,0 +1,19 @@
+{
+  "name": "which-convenience-store-are-you",
+  "version": "1.0.0",
+  "description": "A full tutorial for this filter can be found at the link below: https://medium.com/@jack___joseph/spark-ar-tutorial-making-a-which-are-you-instagram-filter-with-javascript-f7eaeee54b6f",
+  "main": "dist/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Joseph",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
+    "husky": "^8.0.3",
+    "ts-loader": "^9.4.4",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
