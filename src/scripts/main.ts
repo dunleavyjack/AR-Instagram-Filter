@@ -62,7 +62,7 @@ const reset = () => {
 };
 
 /**
- *
+ * Starts the filter.
  */
 const init = () => {
     Instruction.bind(true, 'tap_to_start');
